@@ -1,0 +1,13 @@
+{
+    "icbCatalogRepository": [
+        {
+            "providerCode": "azure",
+            "providerName": "azurerm",
+            "providerOfferingTypes": [
+                "iaas"
+            ],
+            "sourcePath": "/",
+            "serviceOfferings": []
+        }
+    ]
+}
