@@ -1,7 +1,7 @@
 {
     "icbCatalogRepository": [
         {
-            "providerCode": "azure",
+            "providerCode": "9e315cc0-9369-594b-baeb-f414a543ff29",
             "providerName": "azurerm",
             "providerOfferingTypes": [
                 "iaas"
